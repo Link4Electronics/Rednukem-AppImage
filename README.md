@@ -1,4 +1,4 @@
-# TEMPLATE-AppImage 🐧
+# Rednukem-AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/Link4Electronics/Rednukem-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/Link4Electronics/Rednukem-AppImage/releases/latest)
 [![CI Build Status](https://github.com//Link4Electronics/Rednukem-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/Link4Electronics/Rednukem-AppImage/releases/latest)
